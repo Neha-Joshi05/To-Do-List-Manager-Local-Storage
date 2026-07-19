@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="screenshots/banner.png" alt="TaskFlow Banner" width="100%"/>
-
-<br/>
 
 # ✅ TaskFlow — To-Do List Manager with Local Storage
 
@@ -14,15 +9,12 @@
 <img src="https://img.shields.io/badge/Storage-LocalStorage-violet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
 
-<br/><br/>
-
-**[🌐 Live Demo](https://taskflow-todo-manager.onrender.com)**
+**[🌐 Live Demo](https://to-do-list-manager-local-storage.onrender.com)**
 &nbsp;&nbsp;·&nbsp;&nbsp;
 **[💻 Source Code](https://github.com/Neha-Joshi05/To-Do-List-Manager-Local-Storage)**
 &nbsp;&nbsp;·&nbsp;&nbsp;
 **[📸 Screenshots](#-screenshots)**
 
-</div>
 
 ---
 
